@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <strong>🇵🇾 From Paraguay | Junior Developer | Tech Enthusiast | engineering student</strong>
+  <strong>🇵🇾 From Paraguay | Junior Developer | Tech Enthusiast | Engineering student</strong>
 </p>
 
 <p align="center">
@@ -117,5 +117,5 @@ Based in **Paraguay** 🇵🇾, with a focus on creating clean, efficient, and s
 ---
 
 <p align="center">
-  <img src="https://media.gettyimages.com/id/531515511/es/foto/a-close-up-of-a-human-eye-on-an-ibm-computer-monitor-1983.webp?s=1024x1024&w=gi&k=20&c=xFbTwsgn8tYrhHIFO1wXepnXJO0MXYhREllZryMELDs=" />
+  <img src="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
 </p>
