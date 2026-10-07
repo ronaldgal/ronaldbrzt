@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ronald+Britiz;Junior+Developer;Java+%7C+HTML+%7C+CSS+%7C+Linux&center=true&width=700&height=110&color=00ff00&vCenter=true&textColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Ronald+Britez;Junior+Developer;Java+%7C+HTML+%7C+CSS+%7C+Linux&center=true&width=700&height=110&color=00ff00&vCenter=true&textColor=ffffff" />
 </p>
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a713-7c3f-4404-b615-f48f65378ffe.gif" width="40" />
-  Ronald Britiz
+  Ronald Britez
 </h1>
 
 <p align="center">
-  <strong>🇵🇾 From Paraguay | Junior Developer | Tech Enthusiast</strong>
+  <strong>🇵🇾 From Paraguay | Junior Developer | Tech Enthusiast | engineering student</strong>
 </p>
 
 <p align="center">
@@ -117,5 +117,5 @@ Based in **Paraguay** 🇵🇾, with a focus on creating clean, efficient, and s
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronaldbrzt&color=green&style=for-the-badge" />
+  <img src="https://media.gettyimages.com/id/531515511/es/foto/a-close-up-of-a-human-eye-on-an-ibm-computer-monitor-1983.webp?s=1024x1024&w=gi&k=20&c=xFbTwsgn8tYrhHIFO1wXepnXJO0MXYhREllZryMELDs=" />
 </p>
